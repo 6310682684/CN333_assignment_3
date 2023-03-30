@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MultiApps</string>
+
+    <!--NumberGuessing Game-->
+    <string name="AS1Title">NumberGuessing</string>
+    <string name="number">%s</string>
+    <string name="input" />
+    <string name="result">%s</string>
+    <string name="check">check</string>
+    <string name="count">guess: %s times</string>
+    <string name="reset">reset</string>
+
+    <!--Quiz Game-->
+    <string name="AS2Title">Quiz</string>
+
+    <!--RPS Game-->
+    <string name="AS3Title">Rock Paper Scissor</string>
+    <string name="choice_rock">Rock</string>
+    <string name="choice_paper">Paper</string>
+    <string name="choice_scissors">Scissors</string>
+    <string name="opponent">Opponent</string>
+    <string name="Draw">Draw</string>
+    <string name="Win">Win</string>
+    <string name="Lose">Lose</string>
+    <string name="Blank" />
+</resources>
